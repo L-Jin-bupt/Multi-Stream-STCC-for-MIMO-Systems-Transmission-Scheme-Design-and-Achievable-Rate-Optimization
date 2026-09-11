@@ -1,7 +1,7 @@
 # Multi-Stream-STCC-for-MIMO-Systems-Transmission-Scheme-Design-and-Achievable-Rate-Optimization
 This simulation code package is used to reproduce the results of the following paper [1]:
 
-[1] L. Jin, X. Xu, S. Han, X. Chi, P. Zhang, C. Yuen, "Multi-Stream Spatiotemporal Channel Coding for MIMO Systems: Transmission Scheme Design and Achievable Rate Optimization," IEEE Trans on Wireless Commun., early access, Sept. 2026.  
+[1] L. Jin, X. Xu, S. Han, X. Chi, P. Zhang, C. Yuen, "Multi-Stream Spatiotemporal Channel Coding for MIMO Systems: Transmission Scheme Design and Achievable Rate Optimization," IEEE Trans on Wireless Commun., early access, Sept. 2026.  、https://ieeexplore.ieee.org/document/11685920/
 
 The article is also available at https://arxiv.org/abs/2609.09777.
 
